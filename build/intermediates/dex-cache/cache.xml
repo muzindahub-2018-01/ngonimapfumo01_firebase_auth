@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ngoni/.android/build-cache/27509d5043e5f3196a1171cc2a7bd4da8b99850e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="/home/ngoni/AndroidStudioProjects/FireBasePhoneNumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9be3dda9e73adaa68d758fe52b36385f5221356d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ngoni/.android/build-cache/1e17b50b2b126a6e965196e7f21f2ffd5e5f7d02/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="/home/ngoni/AndroidStudioProjects/FireBasePhoneNumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db30791abf33f87ef3c713546bdd0487e7b1a23d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ngoni/.android/build-cache/2559329638738056aa630ecdad8b5d314725751b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="/home/ngoni/AndroidStudioProjects/FireBasePhoneNumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34461b969f36a5667da24cfff42112fad0a1b022/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ngoni/.android/build-cache/1a2e0b1b12716b2eafe61d986d9c54fb58a295d1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5f34a8aeb0eaaa2d69752d56102a8c808117058e">
+        <dex dex="/home/ngoni/AndroidStudioProjects/FireBasePhoneNumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d3899895ebe374af42b81e713e73bd4800380a45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ngoni/.android/build-cache/d932377fde25efe3d21863fce055dfc53963c0d8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/home/ngoni/AndroidStudioProjects/FireBasePhoneNumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7e70521f72e4d70a877ccc81bd44b6927514929/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ngoni/.android/build-cache/a52528da0afd3740a854d4165e617fb8109bfdf3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e8c74e789b51b9da4070aeaed71bae36c3d244f">
+        <dex dex="/home/ngoni/AndroidStudioProjects/FireBasePhoneNumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8188b562d2710ebdfff321693d1dbed2b89d20c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ngoni/.android/build-cache/3bf032d4032bfe69e273390629abbb11aa56f19f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/home/ngoni/AndroidStudioProjects/FireBasePhoneNumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74535d2ba02c3db9b7505264b697b4bf5b5e57f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ngoni/.android/build-cache/9cfe22e4c0a605fdfe23a8edecd2090af090b452/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/home/ngoni/AndroidStudioProjects/FireBasePhoneNumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e5ef122528fbe30d90df6532b84120375a9684b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ngoni/AndroidStudioProjects/FireBasePhoneNumber/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/ngoni/AndroidStudioProjects/FireBasePhoneNumber/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_defd690d57f25d23349774f64cab73e8bab371a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ngoni/.android/build-cache/57366063fb3061f7d6c3bd5bf68b96dd7bebceff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="/home/ngoni/AndroidStudioProjects/FireBasePhoneNumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de9e6c53571a6f43932e7bedae1ff061bd8ebcdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ngoni/AndroidStudioProjects/FireBasePhoneNumber/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="81e8642a0a404ab1082e1f385a328d0945b42960">
+        <dex dex="/home/ngoni/AndroidStudioProjects/FireBasePhoneNumber/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_389ce997449876b8b047fceddd479ae670246504/classes.dex" />
+    </item>
+
+</items>
